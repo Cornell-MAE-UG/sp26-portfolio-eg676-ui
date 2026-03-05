@@ -35,7 +35,7 @@ My approach utilized a **Class 2 Lever** model, where the pivot is at one end, t
 
 ## Design Diagram
 
-<img src="/sp26-portfolio-eg676-ui/assets/images/diagram.png" alt="Class 2 lever diagram" width="600">
+<img src="{{ site.baseurl }}/assets/images/diagram.png" alt="Class 2 lever diagram" width="600">
 
 The diagram above illustrates the manual design, highlighting the pivot point (A), the dual-sized crushing seats (8 mm and 12 mm), and the 164 mm handle extension.
 
