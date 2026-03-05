@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Eli Goldberg
 description              : Eli Goldberg - Projects and CV 
-baseurl                  : "eg676-ui"
+baseurl                  : "sp26-portfolio-eg676-ui"
 
 # Theme and Style
 theme: jekyll-theme-minimal
