@@ -6,9 +6,13 @@ image: /assets/images/nut-cracker.jpeg
 
 ---
 
+<div style="clear:both;"></div>
+
 As part of a class project, I designed a specialized lever-action nutcracker optimized specifically for the high forces required to crack macadamia nuts.
 
 ---
+<div style="clear:both;"></div>
+
 
 ## Problem Statement & Objective
 
@@ -35,7 +39,7 @@ My approach utilized a **Class 2 Lever** model, where the pivot is at one end, t
 
 ## Design Diagram
 
-<img src="/{{ site.baseurl }}/assets/images/finaldiagram.png" alt="Class 2 lever diagram" width="600">
+<img src="{{ '/assets/images/finaldiagram.png' | relative_url }}" alt="Class 2 lever diagram" width="600">
 
 The diagram above illustrates the manual design, highlighting the pivot point (A), the dual-sized crushing seats (8 mm and 12 mm), and the 164 mm handle extension.
 

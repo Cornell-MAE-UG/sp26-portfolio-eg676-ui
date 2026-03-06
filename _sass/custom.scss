@@ -102,10 +102,11 @@ footer {
 }
 
 .project-image {
-  float: left;
-  margin: 20px 25px 25px 0;
+  /* center the project thumbnail and remove float */
+  display: block;
+  margin: 20px auto 25px auto;
   max-width: 200px;
-  vertical-align: top;
+  /* vertical-align not needed on block-level centered image */
 }
 
 .inline-image {
@@ -129,6 +130,12 @@ footer {
 .profile-image, .project-image {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* title centering for project pages */
+.project-title {
+  text-align: center;
+  margin-bottom: 0.5em;
 }
 
 
