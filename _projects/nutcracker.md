@@ -150,7 +150,7 @@ EI    = 69 × 10⁹ × 757 × 10⁻¹² = 52.2 N·m²
 
 ### (c) Final design
 
-*Drawing to be added.*
+<img src="{{ '/assets/images/handle-beam-design.svg' | relative_url }}" alt="Handle beam model and I-beam cross-section" width="700">
 
 ### Summary
 
